@@ -45,3 +45,6 @@ Recommendations
 3.Consider differential pricing strategies for their offline booking platforms by implementing targeted marketing campaigns/promotions to boost bookings and in turn  increase revenue.
 
 4.Explore opportunities to increase direct bookings through the hotel’s website to reduce dependency on other online platforms.
+
+Dashboard link
+https://github.com/naresh24holmes/Revenue_Insights_Atliq_Hospitality_dashboard/issues/1#issue-1908973409
